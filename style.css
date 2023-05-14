@@ -21,25 +21,25 @@
   color: #b71c1c;
 }
 h3{
-  font-size: 18px;
+  font-size: 30px;
   margin-bottom: 20px;
   //text-transform: uppercase;
   color: #9c2b70;
   //font-weight: bolder;
 }
 h1{
-  font-size: 20px;
+  font-size: 35px;
   margin-bottom: 20px;
   //text-transform: uppercase;
   color: #311b92;
   font-weight: bolder;
 }
 a{
-  font-size: 24px;
+  font-size: 30px;
   text-decoration: none;
   padding: 5px 10px;
 	margin-top: 20px;
-	border:1px solid purple; 
+	border:2px solid purple; 
 	border-radius: 8px;
 }
 #no{
